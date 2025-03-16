@@ -38,7 +38,7 @@ const EventCard = ({ event }) => {
 				</p>
 				<div className='mt-4 flex items-center'>
 					<span className='text-yellow-500'>⭐</span>
-					<a href='#' className='text-blue-600 font-semibold text-sm ml-2'>
+					<a href='/' className='text-blue-600 font-semibold text-sm ml-2'>
 						Join others in this event
 					</a>
 				</div>
